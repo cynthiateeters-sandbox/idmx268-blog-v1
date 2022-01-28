@@ -2,7 +2,7 @@
 template: index-page
 slug: /
 title: Garry Ovide
-tagline: Interface Web development
+tagline: Interface Web developer
 featuredImage: /assets/fotis-fotopoulos-6sal6aq4owi-unsplash.jpg
 cta:
   ctaText: Read more
