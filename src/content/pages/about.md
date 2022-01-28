@@ -3,11 +3,11 @@ template: about-page
 slug: /about
 title: "About "
 ---
-
-
-![HTML](/assets/jon-tyson-ql0faxaq2z0-unsplash.jpg "CODING")
+![HTML](/assets/andrew-seaman-4fi_4q6_efm-unsplash.jpg "CODING")
 
 <!--StartFragment-->
+
+**I learn how to:**
 
 * create and optimize images, sound, video, animation, and text in digital space.
 * demonstrate the current best practices of User Experience (UX) and User-Centered Design for human-computer interfaces.
