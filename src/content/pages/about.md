@@ -3,7 +3,7 @@ template: about-page
 slug: /about
 title: "About "
 ---
-![HTML](/assets/andrew-seaman-4fi_4q6_efm-unsplash.jpg "CODING")
+![HTML](/assets/jon-tyson-ql0faxaq2z0-unsplash.jpg "CODING")
 
 <!--StartFragment-->
 
