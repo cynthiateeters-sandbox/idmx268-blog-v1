@@ -2,10 +2,10 @@
 template: index-page
 slug: /
 title: Garry Ovide
-tagline: Web developer
-featuredImage: /assets/screen-post-hixmjh9xhoo-unsplash.jpg
+tagline: Interface Web development
+featuredImage: /assets/fotis-fotopoulos-6sal6aq4owi-unsplash.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-I am a student at Raritan valley community College.
+ I am an Interface Wed Developer. I learn how to code and use the right tools for the job. As a web developer I never stop learning new software and read new material.
