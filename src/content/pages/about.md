@@ -7,7 +7,7 @@ title: "About "
 
 <!--StartFragment-->
 
-**I learn how to:**
+**I LEARN HOW TO:**
 
 * create and optimize images, sound, video, animation, and text in digital space.
 * demonstrate the current best practices of User Experience (UX) and User-Centered Design for human-computer interfaces.
