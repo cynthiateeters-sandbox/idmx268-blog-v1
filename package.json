@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/stackrole/gatsby-starter-foundation.git"
+    "url": "git+https://github.com/stackrole/gatsby-starter-foundation.git"
   },
   "bugs": {
     "url": "https://github.com/stackrole/gatsby-starter-foundation/issues"
@@ -50,5 +50,8 @@
     "react-icons": "^3.11.0",
     "theme-ui": "^0.6.0"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "homepage": "https://github.com/stackrole/gatsby-starter-foundation#readme",
+  "main": "gatsby-browser.js",
+  "keywords": []
 }
