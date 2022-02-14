@@ -34,6 +34,10 @@ Script is one of the unique kinds of typography that is still used today, it int
 
 <!DOCTYPE html>
 
+<html>                                                                                                                                                                <body>
+
+<h2>What Can JavaScript Do?</h2>
+
  Scripting in web development can make a webpage more dynamic and eye appealing. Scripting is a commonly used component of web development. It allows a website to create a more dynamic and complex web page by taking advantage of the existing capabilities of HTML, letting users become more interactive and familiar with the website. With this in mind, they are and practice that goes behind this makes it suitable for web development as people we like to be captured and engrossed into what we read. We are fascinated by simple things such as colors and designs. With script the designs used keep the reader pulled in to finish what they’re looking at. This kind of design can elevate a design from ok to amazing, in a way that tries to make the webpage its best.
 
  Typography is more than just choosing a few beautiful fonts. It also plays a vital role in the design of the website and its overall tone. Scripting just like any other typography has its own unique appearance that helps capture the reader and display itself in a way that separated it from others. A well-designed and consistent typography can help build trust and establish a strong following among whom you’re trying to appeal to. In the end, good typography can be the very difference on whether someone stays on your website or not or for how long. If it is visually stimulating then that can be the key success to how someone views your site, and typography plays its role in that very well. It’s all about choosing the right typography and scripting has its own unique personality to bring a webpage to life.
