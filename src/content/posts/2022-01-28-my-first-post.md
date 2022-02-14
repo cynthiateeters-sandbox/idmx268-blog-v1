@@ -32,7 +32,17 @@ To start off what is typography? Typography is defined as the art and skill of p
 
 Script is one of the unique kinds of typography that is still used today, it introduces certain elements, style, structure, and emotions to its words. The script typefaces can range from formal to very casual, the different kinds of scripts are casual, calligraphic, blackletter, and handwriting. Each script has its own unique way of being written/typed. Casual has a more brush-like appearance with stronger strokes and letters are sometimes connected, while calligraphic emulates hand-lettered and have high contrast. Blackletter is very formal with strong contrast on strokes, and finally, handwriting is casual and mimics modern handwriting. Choosing the right one is important because it relies on the reader and their interest in the information presented. An example of blackletter would be the New York Times headline, it has a classic and unique look to it in a way that keeps a person engaged and catches their attention. Script has been around for a while and has only just been expanding since then. It can be more commonly seen in works such as newspapers or old-timey webpages or even history webpages to emphasize the olden times for some. Below is an example of JavaScript from <https://www.w3schools.com/js/tryit.asp?filename=tryjs_intro_show>
 
-![](/assets/html1.png "Scripts")
+```
+<!DOCTYPE html>
+<html>
+<body>
+<h2>What Can JavaScript Do?</h2>
+<p>JavaSript can show hidden HTML elements.</p>
+<p id="demo" style="display:none">Hello JavaScript!</p>
+<button type="button" onclick="document.getElementById('demo').style.display='block'>Click Me!</button>
+</body>
+</html>
+```
 
  Scripting in web development can make a webpage more dynamic and eye appealing. Scripting is a commonly used component of web development. It allows a website to create a more dynamic and complex web page by taking advantage of the existing capabilities of HTML, letting users become more interactive and familiar with the website. With this in mind, they are and practice that goes behind this makes it suitable for web development as people we like to be captured and engrossed into what we read. We are fascinated by simple things such as colors and designs. With script the designs used keep the reader pulled in to finish what they’re looking at. This kind of design can elevate a design from ok to amazing, in a way that tries to make the webpage its best.
 
